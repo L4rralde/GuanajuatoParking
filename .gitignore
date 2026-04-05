@@ -1,0 +1,12 @@
+*secrets*
+backups
+.DS_Store
+.ipynb_checkpoints/
+Untitled*
+__pycache__
+logs
+*.log
+.venv
+*.jpeg
+media
+reporte*
